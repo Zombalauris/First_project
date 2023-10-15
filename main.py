@@ -13,5 +13,5 @@ x= "*"
 
 for fiecare_nivel in range(0,nivele_brad):
     stelute_pe_rand="*"* fiecare_nivel + "*"
-    spatii= " "*5
+    spatii= " ><"*5
     print(spatii+ stelute_pe_rand)
